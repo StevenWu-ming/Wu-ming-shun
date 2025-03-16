@@ -1,0 +1,23 @@
+# Python 編譯產生的檔案
+__pycache__/
+*.py[cod]
+*.so
+
+# 環境設定
+.env
+.vscode/
+.idea/
+*.log
+
+# Python 虛擬環境
+SeleniumUnittest/
+
+# 測試報告與暫存檔案
+*.xml
+*.sqlite3
+*.db
+*.pytest_cache/
+
+
+selenium_tests/random_data.json
+mcp.json
